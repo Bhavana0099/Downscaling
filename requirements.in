@@ -1,0 +1,13 @@
+numpy
+pandas
+xarray
+netCDF4
+salem
+pyproj
+scipy
+joblib
+plotly
+statsmodels
+imbalanced-learn
+featurewiz
+cmake
